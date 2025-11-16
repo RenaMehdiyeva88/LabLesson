@@ -1,0 +1,14 @@
+C:\Users\Emil\source\repos\LabLesson\LabLesson\bin\Debug\net8.0\LabLesson.exe
+C:\Users\Emil\source\repos\LabLesson\LabLesson\bin\Debug\net8.0\LabLesson.deps.json
+C:\Users\Emil\source\repos\LabLesson\LabLesson\bin\Debug\net8.0\LabLesson.runtimeconfig.json
+C:\Users\Emil\source\repos\LabLesson\LabLesson\bin\Debug\net8.0\LabLesson.dll
+C:\Users\Emil\source\repos\LabLesson\LabLesson\bin\Debug\net8.0\LabLesson.pdb
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.AssemblyInfo.cs
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.dll
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\refint\LabLesson.dll
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.pdb
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\LabLesson.genruntimeconfig.cache
+C:\Users\Emil\source\repos\LabLesson\LabLesson\obj\Debug\net8.0\ref\LabLesson.dll
